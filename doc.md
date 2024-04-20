@@ -27,7 +27,7 @@ Aplikasi ini adalah contoh aplikasi authentikasi sederhana yang dibangun menggun
 8. Instal Falsk Cors dengan menjalankan `pip install flask_cors`.
 9. Berikutnya instal Falsk SQLAlchemy dengan menjalankan `pip install -U Flask-SQLAlchemy`.
 10. Kemudian instal Pyjwt dengan menjalankan `pip install pyjwt`.
-11. Instal Falsk Bcrypt dengan menjalankan `pip ¬install flask-bcrypt`.
+11. Instal Falsk Bcrypt dengan menjalankan `pip install flask-bcrypt`.
 12. Kemudian instal insomnia untuk testing rest api [Link Download](https://insomnia.rest/)
 13. Buka Insomnia dan buat projek baru dan tambahkan beberapa request seperti `login` dengan mehthod `post` dan body `multipart`. buat juga `register` dengan mehthod `post` dan body `multipart`. Terakhir `allArtikel` dengan mehthod `get`.
 14. buka kembali terminal di vscode dan jalankan aplikasi dengan mengetikkan `python app.py`.
